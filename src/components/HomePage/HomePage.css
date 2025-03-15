@@ -1,0 +1,64 @@
+body {
+    box-sizing: border-box;
+    background-color: rgba(255, 230, 217, 255);
+  }
+  
+  h1 {
+    font-weight: 700;
+    color: rgba(251, 57, 30, 255);
+    margin-bottom: 2rem;
+  }
+  
+  .Line {
+    width: 100px;
+    height: 6px;
+    background-color: rgba(90, 182, 213, 255);
+  }
+  
+  .Row1{
+    margin-left: -1rem;
+  }
+  
+  .Card {
+    width: 28rem;
+  }
+  
+  .CardRs {
+    width: 25rem;
+  }
+  
+  .CardTitle {
+    background-color: rgba(90, 182, 213, 255);
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  h3 {
+    font-weight: 700;
+  }
+  
+  .LRContainer {
+    border-bottom: 2rem;
+  }
+  
+  .DodImg{
+    width: 100%;
+    height: 80vh;
+  }
+  
+  .Col{
+    width: 50%;
+    height: auto;
+  }
+  
+  .col img{
+    width: 100%;
+  }
+  
+  .MFR img{
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+  }
+  

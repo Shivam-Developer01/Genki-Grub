@@ -1,0 +1,72 @@
+footer {
+    background-color: black !important;
+    color: white !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .footOne {
+    left: 70px; /* Adjust as needed */
+  }
+  
+  .row {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .col-6,
+  .col-md-2,
+  .col-md-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content inside columns */
+    gap: 30px;
+  }
+  .nav,
+  .flex-column {
+    gap: 10px;
+  }
+  .footWork a {
+    color: #dbdfd0 !important;
+  }
+  .verticalLine {
+    width: 100%;
+    border-top: thin solid #fff;
+  }
+  
+  .d-flex {
+    justify-content: center !important; /* Center content */
+  }
+  .img-thumbnail {
+    border: none !important;
+    padding: 0 !important;
+  }
+  .Social {
+    display: flex;
+    justify-content: center; /* Centering icons */
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .Social ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px; /* Adjust spacing */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .Social a {
+    color: #ad343e !important;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .nav.col-md-4.justify-content-end.list-unstyled.d-flex {
+    justify-content: center !important; /* Ensures icons stay in the center */
+  }
+  

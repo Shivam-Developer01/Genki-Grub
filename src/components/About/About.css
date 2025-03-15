@@ -1,0 +1,34 @@
+h1 {
+    font-weight: 700;
+    color: rgba(251, 57, 30, 255);
+    margin-bottom: 2rem;
+  }
+  
+  .Line {
+    width: 100px;
+    height: 6px;
+    background-color: rgba(90, 182, 213, 255);
+  }
+  
+  .midtext {
+    font-size: 1.5rem;
+    color: #333;
+    text-align: left;
+  }
+  .PImg {
+    height: 70vh;
+    width: 30vh;
+    border-radius: 10px;
+  }
+  .about {
+    background-color: #ffe6d9 !important;
+  }
+  
+  h2 {
+    margin-top: 15px;
+    font-weight: 700;
+  }
+  
+  p {
+    font-size: large;
+  }
