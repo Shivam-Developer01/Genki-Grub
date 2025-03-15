@@ -25,6 +25,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://www.reddit.com/user/yashsehgal251103/"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaReddit />
                   </a>
@@ -33,6 +35,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://www.instagram.com/i_yashsehgal/"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaInstagram />
                   </a>
@@ -41,6 +45,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://www.linkedin.com/in/yash-sehgal-46b938210/"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaLinkedin />
                   </a>
@@ -49,6 +55,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://github.com/idarkpearl"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaSquareGithub />
                   </a>
@@ -58,7 +66,12 @@ const Footer = () => {
             <div class="Social" style={{ marginTop: "-5px" }}>
               <ul>
                 <li class="ms-3">
-                  <a class="text-body-secondary" href="https://t.me/Qw003wue">
+                  <a
+                    class="text-body-secondary"
+                    href="https://t.me/Qw003wue"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <FaTelegram />
                   </a>
                 </li>
@@ -66,6 +79,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://www.instagram.com/shivam_dev01/"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaInstagram />
                   </a>
@@ -74,6 +89,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://www.linkedin.com/in/shivam-kumar-b83971292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaLinkedin />
                   </a>
@@ -82,6 +99,8 @@ const Footer = () => {
                   <a
                     class="text-body-secondary"
                     href="https://github.com/Shivam-Developer01"
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     <FaSquareGithub />
                   </a>
