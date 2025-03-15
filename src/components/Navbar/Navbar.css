@@ -1,0 +1,49 @@
+header {
+    background-color: white !important;
+    color: black !important; /* White text on white background is invisible */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 180px !important;
+    width: 100% !important;
+    padding: 0 20px; /* Add some padding */
+}
+
+.logo {
+    width: 200px;
+    height: 150px;
+    object-fit: contain; 
+}
+
+    
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+}
+.nav-link {
+    font-size: 1rem; 
+    color: #000 !important;
+}
+.nav :hover{
+    color: #FA391F !important;
+}
+
+.text-end {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+header form[role="search"] {
+    width: 500px;
+    margin-right: auto; 
+}
+
+header form[role="search"] .form-control {
+    background-color: #E8E8E8 !important; 
+    border: none; 
+    padding: 8px 12px; 
+}
+
+

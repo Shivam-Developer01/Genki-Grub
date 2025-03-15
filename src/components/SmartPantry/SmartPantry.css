@@ -1,0 +1,21 @@
+h1 {
+    font-weight: 700;
+    color: rgba(251, 57, 30, 255);
+    margin-bottom: 2rem;
+  }
+  
+  .Line {
+    width: 100px;
+    height: 6px;
+    background-color: rgba(90, 182, 213, 255);
+  }
+  
+  .Row1{
+    margin-left: -1rem;
+  }
+  
+  .Card {
+    width: 28rem;
+  }
+
+  
